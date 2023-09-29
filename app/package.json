@@ -40,5 +40,9 @@
       "last 5 firefox version",
       "last 5 safari version"
     ]
+  },
+  "engine": {
+    "node": "v20.6.0",
+    "npm": "9.8.1"
   }
 }
