@@ -37,7 +37,7 @@ function Home({ lightMode }) {
                   </h1>
                   <p>{information.aboutContent}</p>
                   <Socialicons bordered />
-                  <a href="" className="mi-button">
+                  <a href={information.cvfile} target="_blank" className="mi-button">
                     Download Resume
                   </a>
                 </div>

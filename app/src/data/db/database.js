@@ -101,7 +101,7 @@ const database = {
       title: "Public Lands Header",
       subtitle: "React, Redux, Typescript, SCSS, HTML5",
       text: "Completely responsive header, styled with internally built design system. This header is used on the Dick's Sporting Goods and Golf Galaxy sites as well.",
-      imageUrl: "/images/HeaderPL.png",
+      imageUrl: "/images/pl-header-thumb.png",
       largeImageUrl: ["/images/HeaderPL.png"],
       url: 'https://www.publiclands.com/'
     },
@@ -153,7 +153,7 @@ const database = {
       title: "Dynamic Content Rendering Section",
       subtitle: "Angular, Typescript, RXJS, SCSS, HTML5, Jest",
       text: "completely dynamic code that renders marketing content set by a internal CMS. can render 1-4 spots with the same code.",
-      imageUrl: "/images/Story1.png",
+      imageUrl: "/images/story1-thumb.png",
       largeImageUrl: ["/images/Story1.png", "/images/Story2.png"],
       url: 'https://www.calia.com/'
     },
@@ -169,7 +169,7 @@ const database = {
       title: "Search As You Type Display Panel",
       subtitle: "React, Redux, Typescript, HTML5, SCSS",
       text: "When a user lands on the site and types in to the search bar, it renders out this custom display panel.",
-      imageUrl: "/images/saytD.png",
+      imageUrl: "/images/sayt-thumb.png",
       largeImageUrl: ["/images/saytD.png", "/images/saytM.png"]
     },
     {

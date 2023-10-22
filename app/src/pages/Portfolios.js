@@ -37,16 +37,16 @@ function Portfolios() {
   return (
     <Layout>
       <Helmet>
-        <title>Portfolios - Scott Enslin Dev</title>
+        <title>Projects - Scott Enslin Dev</title>
         <meta
           name="description"
-          content="Scott Enslin Dev Portfolios Page"
+          content="Scott Enslin Dev Projects Page"
         />
       </Helmet>
       <Suspense fallback={<Spinner />}>
         <div className="mi-about mi-section mi-padding-top mi-padding-bottom">
           <div className="container">
-            <Sectiontitle title="Portfolios" />
+            <Sectiontitle title="Projects" />
             {<PortfoliosView portfolios={currentPortfolios} />}
             {!(portfolios.length > portfoliosPerPage) ? null : (
               <Pagination

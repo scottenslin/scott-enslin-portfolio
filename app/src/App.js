@@ -41,7 +41,7 @@ function App() {
       <Routes>
         <Route path="/" index element={<Home lightMode={lightMode} />} />
         <Route path="about" element={<About />} />
-        <Route path="portfolios" element={<Portfolios />} />
+        <Route path="projects" element={<Portfolios />} />
         <Route path="contact" element={<Contact />} />
         <Route path="*" element={<Notfound />} />
       </Routes>
