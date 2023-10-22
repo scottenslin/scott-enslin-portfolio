@@ -9,8 +9,8 @@ const database = {
     nationality: 'American',
     language: 'English',
     email: 'Enslin21@yahoo.com',
-    hobbies: ": Traditional Martial Arts, Meditation, Philly Sports, reading",
-    favoriteQuote: ": A calm sea doesn't make a great salior",
+    hobbies: ": Traditional Martial Arts, Meditation, Philadelphia Sports, Reading",
+    favoriteQuote: ": A calm sea doesn't make a great sailor",
     address: '',
     freelanceStatus: 'n/a',
     socialLinks: {
